@@ -4,7 +4,7 @@
 
 - 👨🏼‍💻 Desenvolvo sites para diversas áreas
 
-- 📽 Todos os meus projetos vão estar disponiveis no meu portifólio [❗ Em construção]
+- 📽 Todos os meus projetos vão estar disponiveis no meu <a href="https://emerson-correia.netlify.app/"> Portfólio </a>
 
 <br>
 
